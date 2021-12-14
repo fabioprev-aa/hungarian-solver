@@ -1,0 +1,6 @@
+name: hungarian
+channels:
+  - defaults
+dependencies:
+  - python=3.6.9
+  - tensorflow=1.9
